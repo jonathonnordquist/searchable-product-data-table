@@ -1,3 +1,8 @@
+# Searchable Product Data Table
+
+This was built using the [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) step of the React docs main concepts.  
+Built it as a refresher of my React skills.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
